@@ -8,3 +8,5 @@
 - Café au Lait
 - Cortado
 - Flat White
+- Mocha Latte
+- Iced Coffee
